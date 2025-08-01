@@ -23,7 +23,7 @@ Clone o repositório
 bash
 Copiar
 Editar
-git clone https://github.com/seu-usuario/seu-repositorio.git
+(https://github.com/lukk4-thecreator/lepra.git)
 cd seu-repositorio
 Execute o sistema
 
