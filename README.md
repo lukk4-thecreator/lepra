@@ -9,8 +9,7 @@ Tela de confirmação antes de excluir usuário
 Adicionamos uma janela de confirmação antes de excluir um cadastro, evitando exclusões acidentais.
 
 Validação de CPF e número de telefone
-Limitamos a entrada a 11 dígitos numéricos, garantindo dados mais consistentes e seguros.
-
+Limitamos a entrada a 11 dígitos numéricos, garantindo dados mais consistentes e seguros
 ▶️ Como executar o sistema
 Pré-requisitos
 
